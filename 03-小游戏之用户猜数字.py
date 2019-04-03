@@ -5,7 +5,7 @@ import random
 
 secret = random.randint(1, 100)
 
-times = 5
+times = 10
 
 while times:	
     tmp = input("请输入数字：")
